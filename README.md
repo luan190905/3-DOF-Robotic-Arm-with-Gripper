@@ -165,32 +165,6 @@ This functionality implements a simple Teach-and-Repeat robotic control system.
 
 ---
 
-## Repository Structure
-
-```text
-ESP32-Based-Teach-and-Repeat-Robotic-Arm/
-│
-├── README.md
-│
-├── src/
-│   └── main.ino
-│
-├── web/
-│   ├── index.html
-│   ├── style.css
-│   └── script.js
-│
-├── images/
-│   ├── robotic_arm.jpg
-│   ├── web_interface.jpg
-│   ├── playback_demo.jpg
-│   └── system_architecture.png
-│
-└── docs/
-```
-
----
-
 ## Skills Demonstrated
 
 - Embedded Systems Development
