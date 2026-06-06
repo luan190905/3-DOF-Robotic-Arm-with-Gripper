@@ -14,21 +14,7 @@ The system demonstrates the implementation of embedded control, web-based human-
 
 ### Robotic Arm Prototype
 
-![Robotic Arm](images/search.jpg)
-
-### Web Control Interface
-
-![Web Interface](images/web_interface.jpg)
-
-### Motion Recording and Playback
-
-![Motion Playback](images/playback_demo.jpg)
-
-### System Architecture
-
-![System Architecture](images/system_architecture.png)
-
----
+![Robotic Arm](images/arm.jpg)
 
 ## Key Features
 
